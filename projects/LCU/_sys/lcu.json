@@ -1,0 +1,7 @@
+{
+    "{{projectsPath}}": {
+        "{{projectName}}": {
+            "test": "{{custom}}"
+        }
+    }
+}

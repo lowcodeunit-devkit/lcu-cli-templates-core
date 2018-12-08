@@ -1,0 +1,26 @@
+{
+  "name": "@smart-matrix/lcu-cli-templates-core",
+  "version": "0.0.0",
+  "description": "The core templates used by the lcu-cli to manage default configurations of the LCU.",
+  "main": "lcu-cli-templates.json",
+  "scripts": {
+    "deploy": "npm version patch && npm run build && npm run deploy:lib",
+    "deploy:lib": "npm publish ./ --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smart-matrix/lcu-cli-templates-core.git"
+  },
+  "keywords": [
+    "SMART",
+    "LCU",
+    "CLI",
+    "Templates"
+  ],
+  "author": "Michael Gearhardt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smart-matrix/lcu-cli-templates-core/issues"
+  },
+  "homepage": "https://github.com/smart-matrix/lcu-cli-templates-core#readme"
+}

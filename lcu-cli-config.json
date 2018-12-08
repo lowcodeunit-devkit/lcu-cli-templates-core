@@ -1,0 +1,26 @@
+{
+  "Elements": {
+    "Root": "./elements",
+    "Title": "LCU-CLI Core Page Elements Templates",
+    "Options": [
+      "Display",
+      "Layout"
+    ]
+  },
+  "Projects": {
+    "Root": "./projects",
+    "Title": "LCU-CLI Core Project Templates",
+    "Options": [
+      "Library",
+      "Compiler",
+      "LCU"
+    ]
+  },
+  "Solutions": {
+    "Root": "./solutions",
+    "Title": "LCU-CLI Core Solutions Templates",
+    "Options": [
+      "Core"
+    ]
+  }
+}

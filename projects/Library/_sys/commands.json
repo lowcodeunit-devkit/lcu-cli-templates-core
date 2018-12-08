@@ -1,0 +1,5 @@
+[
+    "npm i @angular/cli@latest -g",
+    "ng new {{projectName}} --createApplication=false --newProjectRoot={{projectsPath}} --directory=./",
+    "ng g library {{projectName}}"
+]

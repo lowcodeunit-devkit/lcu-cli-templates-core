@@ -1,0 +1,8 @@
+{
+    "environment": {
+        "tempFiles": "{{safeFilePath tempPath}}" 
+    },   
+    "templates": {
+        "repository": "{{repo}}"
+    }
+}
