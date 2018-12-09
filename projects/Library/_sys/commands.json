@@ -3,6 +3,5 @@
     "ng new {{projectName}} --createApplication=false --newProjectRoot={{projectsPath}} --directory=./",
     "ng g library {{projectName}}",
     "npm i rimraf -g",
-    "rimraf {{projectsPath}}/{{projectName}}/src",
-    "mkdir {{projectsPath}}/{{projectName}}/src"
+    "rimraf {{projectsPath}}/{{projectName}}/src"
 ]
