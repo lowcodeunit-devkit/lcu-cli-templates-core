@@ -1,7 +1,4 @@
 [
     "npm i @angular/cli@latest -g",
-    "ng new {{projectName}} --createApplication=false --newProjectRoot={{projectsPath}} --directory=./",
-    "ng g library {{projectName}}",
-    "npm i rimraf -g",
-    "rimraf {{projectsPath}}/{{projectName}}/src"
+    "ng new {{projectName}} --createApplication=false --newProjectRoot={{projectsPath}} --directory=./"
 ]
