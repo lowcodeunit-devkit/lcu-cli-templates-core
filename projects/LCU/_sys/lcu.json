@@ -1,7 +1,0 @@
-{
-    "{{projectsPath}}": {
-        "{{projectName}}": {
-            "test": "{{custom}}"
-        }
-    }
-}
