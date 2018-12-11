@@ -1,5 +1,4 @@
 [
-    "npm i @angular/cli@latest -g",
     "ng new {{projectName}} --createApplication=false --newProjectRoot={{projectsPath}} --directory=./",
     "ng add @lowcodeunit-devkit/ng-lcu --repository={{repo}}",
     "ng g @lowcodeunit-devkit/ng-lcu:library --name={{projectName}} --initWith={{initWith}}",
