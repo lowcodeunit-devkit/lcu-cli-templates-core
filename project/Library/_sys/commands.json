@@ -1,0 +1,4 @@
+[
+    "ng g @lowcodeunit-devkit/ng-lcu:library --name={{projectName}} --initWith={{initWith}}",
+    "ng build"
+]
