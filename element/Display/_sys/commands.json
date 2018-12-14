@@ -1,4 +1,4 @@
 [
-    "ng g @lowcodeunit-devkit/ng-lcu:el --project={{projectName}} --format=Display",
+    "ng g @lowcodeunit-devkit/ng-lcu:el --name=DisplayContent --path=src/lib --project={{projectName}}",
     "ng build {{projectName}}"
 ]
