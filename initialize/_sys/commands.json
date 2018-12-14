@@ -2,5 +2,5 @@
     "npm i -g @angular/cli@latest",
     "ng new workspace --createApplication=false --newProjectRoot={{projectsPath}} --directory=./",
     "ng add @lowcodeunit-devkit/ng-lcu --repository={{repo}}",
-    "npm i @lowcodeunit/common @lowcodeunit/core @lowcodeunit/elements @lowcodeunit/solution --save"
+    "npm i @lowcodeunit/common @lowcodeunit/core @lowcodeunit/elements @lowcodeunit/solutions --save"
 ]
