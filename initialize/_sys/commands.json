@@ -1,5 +1,6 @@
 [
     "ng new workspace --createApplication=false --newProjectRoot={{projectsPath}} --directory=./",
     "ng add @lowcodeunit-devkit/ng-lcu --repository={{repo}}",
-    "npm i @lowcodeunit/common @lowcodeunit/core @lowcodeunit/elements @lowcodeunit/solutions --save"
+    "npm i @lowcodeunit/common @lowcodeunit/core @lowcodeunit/elements @lowcodeunit/solutions --save",
+    "npm i angulartics2 dot-object angular-font-awesome @beyerleinf/ngx-dnd @angular/http @angular/material @angular/flex-layout @angular/cdk --save"
 ]
