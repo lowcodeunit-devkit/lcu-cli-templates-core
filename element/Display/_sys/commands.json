@@ -1,0 +1,4 @@
+[
+    "ng g @lowcodeunit-devkit/ng-lcu:el --project={{projectName}} --format=Display",
+    "ng build {{projectName}}"
+]
