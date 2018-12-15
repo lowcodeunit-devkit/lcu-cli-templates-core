@@ -1,0 +1,3 @@
+[
+    "npm i @lowcodeunit/common@latest @lowcodeunit/core@latest @lowcodeunit/elements@latest @lowcodeunit/solutions@latest @lowcodeunit/json-schema-editor@latest --save"
+]
