@@ -12,6 +12,7 @@
     "Title": "LCU-CLI Core Project Templates",
     "Options": [
       "Library",
+      "App",
       "Compiler",
       "LCU"
     ]
