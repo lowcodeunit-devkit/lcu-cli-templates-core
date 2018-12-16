@@ -1,6 +1,6 @@
 {
   "name": "@lowcodeunit-devkit/lcu-cli-templates-core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The core templates used by the lcu-cli to manage default configurations of the LCU.",
   "main": "lcu-cli-templates.json",
   "scripts": {
