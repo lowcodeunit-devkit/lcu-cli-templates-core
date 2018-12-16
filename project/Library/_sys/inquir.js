@@ -6,10 +6,10 @@
       message: `Choose library initialization type:`,
       choices: [
         'Element',
-        'Blank',
-        'Default',
         'Solution',
+        'Default',
         'SPE',
+        'Blank',
       ]
     }
   ]
