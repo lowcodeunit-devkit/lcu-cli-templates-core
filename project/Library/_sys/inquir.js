@@ -7,9 +7,9 @@
       choices: [
         'Element',
         'Solution',
-        'Default',
-        'SPE',
-        'Blank',
+        // 'Default',
+        // 'SPE',
+        // 'Blank',
       ]
     }
   ]
