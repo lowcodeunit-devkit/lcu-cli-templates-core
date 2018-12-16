@@ -1,7 +1,7 @@
 [
     "npm i @lowcodeunit/lcu-cli@latest -g",
-    "npm uninstall @lowcodeunit/common@latest @lowcodeunit/core@latest @lowcodeunit/elements@latest @lowcodeunit/solutions@latest @lowcodeunit/json-schema-editor@latest --save",
     "npm uninstall angulartics2 dot-object angular-font-awesome @beyerleinf/ngx-dnd @angular/material @angular/flex-layout @angular/cdk ngx-monaco-editor angular6-json-schema-form --save",
+    "npm uninstall @lowcodeunit/common@latest @lowcodeunit/core@latest @lowcodeunit/elements@latest @lowcodeunit/solutions@latest @lowcodeunit/json-schema-editor@latest --save",
     "npm i @lcu/common@latest @lcu/core@latest --save",
     "npm i @lowcodeunit-devkit/ng-lcu@latest --save"
 ]
