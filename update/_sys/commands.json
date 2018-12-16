@@ -1,5 +1,6 @@
 [
     "npm i @lowcodeunit/lcu-cli@latest -g",
-    "npm i @lowcodeunit/common@latest @lowcodeunit/core@latest @lowcodeunit/elements@latest @lowcodeunit/solutions@latest @lowcodeunit/json-schema-editor@latest --save",
+    "npm uninstall @lowcodeunit/common@latest @lowcodeunit/core@latest @lowcodeunit/elements@latest @lowcodeunit/solutions@latest @lowcodeunit/json-schema-editor@latest --save",
+    "npm i @lcu/common@latest @lcu/core@latest @lcu/elements@latest @lcu/solutions@latest --save",
     "npm i @lowcodeunit-devkit/ng-lcu@latest --save"
 ]
