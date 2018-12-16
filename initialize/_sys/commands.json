@@ -1,6 +1,6 @@
 [
     "ng new workspace --createApplication=false --newProjectRoot={{projectsPath}} --directory=./",
     "ng add @lowcodeunit-devkit/ng-lcu --repository={{repo}}",
-    "npm i @lcu/common @lcu/core @lcu/elements @lcu/solutions --save",
+    "npm i @lcu/common @lcu/core --save",
     "npm i @angular/http --save"
 ]
