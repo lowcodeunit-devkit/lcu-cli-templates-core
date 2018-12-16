@@ -1,10 +1,10 @@
 {
   "name": "@lowcodeunit-devkit/lcu-cli-templates-core",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "The core templates used by the lcu-cli to manage default configurations of the LCU.",
   "main": "lcu-cli-templates.json",
   "scripts": {
-    "deploy": "npm version patch && npm run build && npm run deploy:lib",
+    "deploy": "npm version patch && npm run deploy:lib",
     "deploy:lib": "npm publish ./ --access public"
   },
   "repository": {
