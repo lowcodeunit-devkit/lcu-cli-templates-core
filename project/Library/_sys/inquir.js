@@ -3,7 +3,7 @@
     {
       type: 'list',
       name: 'initWith',
-      message: `Choose Template:`,
+      message: `Choose library initialization type:`,
       choices: [
         'Element',
         'Blank',
