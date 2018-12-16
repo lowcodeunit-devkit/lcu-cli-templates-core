@@ -8,7 +8,7 @@
         'Element',
         'Solution',
         'Default',
-        // 'SPE',
+        'SPE',
         'Blank',
       ]
     }
