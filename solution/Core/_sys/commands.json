@@ -1,5 +1,5 @@
 [
     "ng g @lowcodeunit-devkit/ng-lcu:sln --name={{name}} --path={{path}} --project={{projectName}} --export={{export}}",
-    "npm i @lcu/hosting @lcu/solutions --save",
+    "npm i @lcu/api @lcu/hosting @lcu/elements @lcu/solutions --save",
     "ng build {{projectName}}"
 ]
