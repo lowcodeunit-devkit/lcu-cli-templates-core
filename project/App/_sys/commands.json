@@ -1,4 +1,4 @@
 [
-    "ng g application {{projectName}} --prefix=lcu --routing=true",
+    "ng g application {{projectName}} --routing=true",
     "ng build {{projectName}}"
 ]
