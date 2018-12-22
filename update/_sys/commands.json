@@ -1,5 +1,5 @@
 [
     "npm uninstall @lowcodeunit/lcu-cli -g",
-    "npm uninstall @lowcodeunit/common @lowcodeunit/core @lowcodeunit/elements @lowcodeunit/solutions @lowcodeunit/json-schema-editor --save",
+    "npm uninstall @lowcodeunit/common @lowcodeunit/core @lowcodeunit/elements @lowcodeunit/solutions --save",
     "npm i @lcu/api @lcu/apps @lcu/elements @lcu/daf-common @lcu/daf-ui @lcu/common @lcu/core @lcu/hosting @lcu/enterprises @lcu/identity @lcu/solutions @lcu/routing --save"
 ]
