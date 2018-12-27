@@ -1,4 +1,4 @@
 [
-    "ng g application {{projectName}} --routing=true --style=scss",
+    "ng g @lowcodeunit-devkit/ng-lcu:application --name={{projectName}}",
     "ng build {{projectName}}"
 ]
