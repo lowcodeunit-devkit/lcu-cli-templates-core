@@ -1,4 +1,2 @@
 [
-    "npm uninstall @lowcodeunit/lcu-cli -g",
-    "npm uninstall @lowcodeunit/common @lowcodeunit/core @lowcodeunit/elements @lowcodeunit/solutions --save"
 ]
