@@ -7,6 +7,7 @@
       choices: [
         'Element',
         'Solution',
+        'Forge',
         'Default',
         'SPE',
         'Blank',
