@@ -1,4 +1,5 @@
 [
+    "npm i dot-object @angular/material @angular/cdk ngx-monaco-editor @beyerleinf/ngx-dnd --save",
     "ng g @lowcodeunit-devkit/ng-lcu:application --name={{projectName}} --initWith={{initWith}}",
     "ng build {{projectName}}"
 ]
