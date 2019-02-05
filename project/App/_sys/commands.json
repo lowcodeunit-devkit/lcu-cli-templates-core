@@ -1,5 +1,4 @@
 [
-    "npm i dot-object @angular/material @angular/cdk ngx-monaco-editor @beyerleinf/ngx-dnd @angular/flex-layout angular-font-awesome hammerjs --save",
     "ng g @lowcodeunit-devkit/ng-lcu:application --name={{projectName}} --initWith={{initWith}}",
     "ng build {{projectName}}"
 ]

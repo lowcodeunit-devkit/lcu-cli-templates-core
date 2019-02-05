@@ -1,5 +1,4 @@
 [
     "ng g @lowcodeunit-devkit/ng-lcu:sln --name={{name}} --path={{path}} --project={{projectName}} --export={{export}}",
-    "npm i @lcu/api @lcu/hosting @lcu/elements @lcu/solutions @lowcodeunit/ngx-markdown-docs --save",
     "ng build {{projectName}}"
 ]
