@@ -4,5 +4,6 @@
     "ng add ngx-build-plus --project=lcu",
     "ng g ngx-build-plus:wc-polyfill --project=lcu",
     "npm install",
-    "npm i mkdirp concat-glob-cli --save-dev"
+    "npm i mkdirp concat-glob-cli --save-dev",
+    "ng build common && ng build lcu && ng build demo"
 ]
