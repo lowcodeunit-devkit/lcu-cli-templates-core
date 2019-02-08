@@ -1,0 +1,4 @@
+[
+    "ng g @lowcodeunit-devkit/ng-lcu:lcu",
+    "ng build"
+]
