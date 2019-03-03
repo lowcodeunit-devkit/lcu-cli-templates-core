@@ -4,6 +4,6 @@
     "ng g ngx-build-plus:wc-polyfill --project=lcu",
     "npm install",
     "npm install @angular/elements --save",
-    "npm i mkdirp concat-glob-cli --save-dev",
+    "npm i rimraf mkdirp concat-glob-cli --save-dev",
     "ng build common && ng build lcu && ng build demo"
 ]
