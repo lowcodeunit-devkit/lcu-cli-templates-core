@@ -5,6 +5,7 @@
     "npm install",
     "npm install @angular/elements --save",
     "npm i @lcu-ide/common @aspnet/signalr hammerjs --save",
+    "npm i @angular/material @angular/cdk @angular/flex-layout --save",
     "npm i rimraf mkdirp concat-glob-cli --save-dev",
     "npm run build:common && npm run build:lcu && npm run build:demo"
 ]
