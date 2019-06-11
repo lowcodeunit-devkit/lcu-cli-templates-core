@@ -5,7 +5,7 @@
       name: 'initWith',
       message: `Choose app initialization type:`,
       choices: [
-        'LCU Core',
+        'LCU Core App',
         'Default',
         'Blank',
       ]
