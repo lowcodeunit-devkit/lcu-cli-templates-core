@@ -1,4 +1,4 @@
 [
-    "ng g @lowcodeunit-devkit/ng-lcu:application --name='{{projectName}}' --initWith='{{initWith}}'",
-    "ng build '{{projectName}}'"
+    "ng g @lowcodeunit-devkit/ng-lcu:application --name={{projectName}} --initWith=\"{{initWith}}\"",
+    "ng build {{projectName}}"
 ]
