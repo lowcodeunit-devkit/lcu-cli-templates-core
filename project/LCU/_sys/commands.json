@@ -1,11 +1,11 @@
 [
-    "ng g @lowcodeunit-devkit/ng-lcu:lcu --name={{projectName}} --initWith={{initWith}}",
+    "ng g @lowcodeunit-devkit/ng-lcu:lcu",
     "ng add ngx-build-plus --project=lcu",
     "ng g ngx-build-plus:wc-polyfill --project=lcu",
     "npm install",
-    "npm i @angular/elements@7.2.15 --save",
+    "npm install @angular/elements --save",
     "npm i @lcu-ide/common @aspnet/signalr hammerjs --save",
-    "npm i @angular/material@7.3.7 @angular/cdk@7.3.7 @angular/flex-layout@7.0.0-beta.24 --save",
+    "npm i @angular/material @angular/cdk @angular/flex-layout --save",
     "npm i rimraf mkdirp concat-glob-cli --save-dev",
-    "ng build {{projectName}}"
+    "npm run build:common && npm run build:lcu && npm run build:demo"
 ]
