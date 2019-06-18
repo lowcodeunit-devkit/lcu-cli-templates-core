@@ -5,7 +5,7 @@
       name: 'initWith',
       message: `Choose LCU initialization type:`,
       choices: [
-        'Reactive-Form',
+        'LCU-Form',
         'Default',
         'Blank',
       ]
