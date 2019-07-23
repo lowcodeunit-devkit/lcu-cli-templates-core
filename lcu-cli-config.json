@@ -1,6 +1,6 @@
 {
   "Elements": {
-    "Root": "./elements",
+    "Root": "./element",
     "Title": "LCU-CLI Core Page Elements Templates",
     "Options": [
       "Display",
@@ -8,7 +8,7 @@
     ]
   },
   "Projects": {
-    "Root": "./projects",
+    "Root": "./project",
     "Title": "LCU-CLI Core Project Templates",
     "Options": [
       "Library",
@@ -18,7 +18,7 @@
     ]
   },
   "Solutions": {
-    "Root": "./solutions",
+    "Root": "./solution",
     "Title": "LCU-CLI Core Solutions Templates",
     "Options": [
       "Core"
