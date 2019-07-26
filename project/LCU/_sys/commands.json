@@ -3,9 +3,9 @@
     "ng add ngx-build-plus --project=lcu",
     "ng g ngx-build-plus:wc-polyfill --project=lcu",
     "npm install",
-    "npm i @angular/elements --save",
-    "npm i @lcu-ide/common @aspnet/signalr hammerjs --save",
-    "npm i @angular/material @angular/cdk @angular/flex-layout --save",
+    "npm i @angular/elements@8.1.2 --save",
+    "npm i @lcu-ide/common@8.1.2 @aspnet/signalr hammerjs --save",
+    "npm i @angular/material@8.1.1 @angular/cdk@8.1.1 @angular/flex-layout@8.0.0-beta.26 --save",
     "npm i rimraf mkdirp concat-glob-cli --save-dev",
     "npm run build:common && npm run build:lcu && npm run build:demo"
 ]
