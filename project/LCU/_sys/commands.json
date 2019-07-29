@@ -1,5 +1,6 @@
 [
     "ng g @lowcodeunit-devkit/ng-lcu:lcu",
+    "npm i ngx-build-plus",
     "ng add ngx-build-plus --project=lcu",
     "ng g ngx-build-plus:wc-polyfill --project=lcu",
     "npm install",
