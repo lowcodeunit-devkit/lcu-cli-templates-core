@@ -7,6 +7,7 @@
       choices: [
         'LCU-Core-App',
         'LCU-Form',
+        'Momentum',
         'Default',
         'Blank',
       ]
