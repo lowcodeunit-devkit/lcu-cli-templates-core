@@ -1,8 +1,9 @@
 [
+    "npm i ng-momentum --save-dev",
     "ng g @lowcodeunit-devkit/ng-lcu:application --name={{projectName}} --initWith={{initWith}}",
     "npm install",
-    "npm i @angular/elements@8.1.2 --save",
-    "npm i @lcu-ide/common@8.1.2 @aspnet/signalr hammerjs --save",
-    "npm i @angular/material@8.1.1 @angular/cdk@8.1.1 @angular/flex-layout@8.0.0-beta.26 --save",
+    "npm i @angular/elements --save",  
+    "npm i @lcu-ide/common @aspnet/signalr hammerjs --save",
+    "npm i @angular/material @angular/cdk @angular/flex-layout --save",
     "ng build {{projectName}}"
 ]
