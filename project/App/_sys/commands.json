@@ -1,5 +1,4 @@
 [
-    "npm i ng-momentum --save-dev",
     "ng g @lowcodeunit-devkit/ng-lcu:application --name={{projectName}} --initWith={{initWith}}",
     "npm install",
     "npm i @angular/elements --save",  
