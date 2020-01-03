@@ -11,10 +11,11 @@
     "Root": "./projects",
     "Title": "LCU-CLI Core Project Templates",
     "Options": [
-      "Library",
       "App",
       "Compiler",
-      "LCU"
+      "LCU",
+      "Library",
+      "Momentum"
     ]
   },
   "Solutions": {

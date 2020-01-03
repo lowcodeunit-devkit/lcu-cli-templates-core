@@ -1,0 +1,6 @@
+[
+    "ng add ng-momentum",
+    "ng g @lowcodeunit-devkit/ng-lcu:application --name={{projectName}} --initWith={{initWith}}",
+    "npm install",
+    "ng build {{projectName}}"
+]
