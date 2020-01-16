@@ -1,10 +1,10 @@
 [
     "ng g @lowcodeunit-devkit/ng-lcu:lcu --projectName={{projectName}}",
-    "npm i ngx-build-plus",
     "ng add ngx-build-plus --project=lcu",
     "ng g ngx-build-plus:wc-polyfill --project=lcu",
     "npm install",
     "npm i @angular/elements --save",
+    "npm i @webcomponents/custom-elements --save",
     "npm i @lcu/common @aspnet/signalr hammerjs --save",
     "npm i @angular/material @angular/cdk @angular/flex-layout --save",
     "npm i rimraf mkdirp concat-glob-cli --save-dev",
