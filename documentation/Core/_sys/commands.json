@@ -1,0 +1,5 @@
+[
+    "npm i @lowcodeunit/lcu-documentation-common --save",
+    "ng g @lowcodeunit-devkit/ng-lcu:documentation --path={{path}} --project={{projectName}}",
+    "ng build {{projectName}}"
+]
