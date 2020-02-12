@@ -1,12 +1,4 @@
 {
-  "Documents": {
-    "Root": "./documents",
-    "Title": "LCU-CLI Core Document Templates",
-    "Options": [
-      "Core",
-      "LCU"
-    ]
-  },
   "Elements": {
     "Root": "./elements",
     "Title": "LCU-CLI Core Page Elements Templates",
