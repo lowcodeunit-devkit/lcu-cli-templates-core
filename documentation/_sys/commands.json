@@ -1,5 +1,5 @@
 [
     "npm i @lowcodeunit/lcu-documentation-common --save",
-    "ng g @lowcodeunit-devkit/ng-lcu:documentation --path={{path}} --project={{projectName}} --initWith={{initWith}}",
+    "ng g @lowcodeunit-devkit/ng-lcu:documentation --path={{path}} --project={{projectName}} --initWith={{initWith}}  --includeComponent={{includeComponent}} --includeRouting={{includeRouting}}",
     "ng build {{projectName}}"
 ]
