@@ -8,6 +8,6 @@
     "npm i @lcu/common @aspnet/signalr hammerjs --save",
     "npm i @lowcodeunit/lcu-documentation-common --save",
     "npm i @angular/material @angular/cdk @angular/flex-layout --save",
-    "npm i rimraf mkdirp concat-glob-cli --save-dev",
+    "npm i rimraf mkdirp concat-glob-cli terser@4.6.3 --save-dev",
     "npm run build:common && npm run build:lcu && npm run build:demo"
 ]
