@@ -4,7 +4,6 @@
     "Title": "LCU-CLI Core Project Templates",
     "Options": [
       "App",
-      "Compiler",
       "LCU",
       "Library",
       "Momentum"
