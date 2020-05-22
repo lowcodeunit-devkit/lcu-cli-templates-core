@@ -5,10 +5,10 @@
       name: 'initWith',
       message: `Choose app initialization type:`,
       choices: [
-        'LCU-Core-App',
-        'LCU-Form',
-        'Default',
         'Blank',
+        'Default',
+        'LCU-Core-App',
+        'LCU-Form'
       ]
     }
   ]
