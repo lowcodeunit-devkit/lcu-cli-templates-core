@@ -1,18 +1,9 @@
 {
-  "Elements": {
-    "Root": "./elements",
-    "Title": "LCU-CLI Core Page Elements Templates",
-    "Options": [
-      "Display",
-      "Layout"
-    ]
-  },
   "Projects": {
     "Root": "./projects",
     "Title": "LCU-CLI Core Project Templates",
     "Options": [
       "App",
-      "Compiler",
       "LCU",
       "Library",
       "Momentum"
