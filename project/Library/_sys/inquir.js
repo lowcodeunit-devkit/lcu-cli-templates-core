@@ -7,10 +7,7 @@
       choices: [
         'Blank',
         'Default',
-        'Element',
-        'LCU-Starter-Lib',
-        'SPE',
-        'Solution'
+        'LCU-Starter-Lib'
       ]
     }
   ]

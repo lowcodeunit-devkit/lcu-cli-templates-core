@@ -1,4 +1,0 @@
-[
-    "ng g @lowcodeunit-devkit/ng-lcu:el --name={{name}} --path={{path}} --project={{projectName}} --export={{export}}",
-    "ng build {{projectName}}"
-]
