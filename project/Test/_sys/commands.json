@@ -1,5 +1,5 @@
 [
-    "npm i mkdirp --save-dev",
+    "npm i mkdirp @briebug/cypress-schematic --save-dev",
     "mkdirp e2e",
     "ng g @lowcodeunit-devkit/ng-lcu:testing --testPlatform={{testPlatform}}"
 ]
