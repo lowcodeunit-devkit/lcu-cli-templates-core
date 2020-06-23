@@ -1,5 +1,5 @@
 [
     "npm i mkdirp --save-dev",
     "mkdirp e2e",
-    "ng add @lowcodeunit-devkit/ng-lcu:testing --testPlatform={{testPlatform}}"
+    "ng g @lowcodeunit-devkit/ng-lcu:testing --testPlatform={{testPlatform}}"
 ]
