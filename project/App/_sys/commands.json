@@ -3,6 +3,6 @@
     "npm install",
     "npm i @angular/elements --save",  
     "npm i @lcu/common @aspnet/signalr hammerjs --save",
-    "npm i @angular/material @angular/cdk @angular/flex-layout --save",
+    "npm i @angular/material@9 @angular/cdk@9 @angular/flex-layout@9.0.0-beta.29 --save",
     "ng build {{projectName}}"
 ]
