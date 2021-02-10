@@ -1,6 +1,6 @@
 [
-  "npm uninstall node-sass --save",
   "npm i @angular/cli@latest @lcu/cli@latest -g",
   "ng update @angular/cdk @angular/cli @angular/core @angular/material rxjs --force",
+  "npm uninstall node-sass --save",
   "npm i ngx-build-plus@latest --save"
 ]
