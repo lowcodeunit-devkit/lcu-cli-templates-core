@@ -1,2 +1,7 @@
 [
+  "npm i @angular/cli@latest @lcu/cli@latest -g",
+  "npm uninstall node-sass --save",
+  "npm i ngx-build-plus@latest @angular/flex-layout@latest --save",
+  "rimraf node_modules",
+  "npm install"
 ]
