@@ -7,12 +7,7 @@
     "npm i @webcomponents/custom-elements --save",
     "npm i @lcu/common @aspnet/signalr hammerjs --save",
     "npm i @lowcodeunit/lcu-documentation-common --save",
-<<<<<<< HEAD
-    "npm i @angular/material@11 @angular/cdk@11 @angular/flex-layout@11.0.0-beta.33 --save",
-    "npm i rimraf mkdirp concat-glob-cli terser@5.3.0 --save-dev",
-=======
     "npm i @angular/material@latest @angular/cdk@latest @angular/flex-layout@latest --save",
     "npm i rimraf mkdirp concat-glob-cli --save-dev",
->>>>>>> origin/master
     "npm run build:common && npm run build:lcu && npm run build:demo"
 ]
